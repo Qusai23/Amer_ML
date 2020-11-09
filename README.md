@@ -1,3 +1,4 @@
 # Amer_ML
-Machine Learning Projects 
-Projects from Machine Learning Class CSCE 633
+## Machine Learning Projects 
+from Texas A&M University Machine Learning Class CSCE 633
+
